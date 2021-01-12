@@ -1,0 +1,7 @@
+Data : https://docs.google.com/spreadsheets/d/1dns8iY0x5mU4uR4-HYQLRsVHQMzRlHVg/edit?usp=drive_web&ouid=107239208215140900922&rtpof=true
+Notebook : https://colab.research.google.com/drive/1yH3IkWlca2OctpkAiGCsZc8JnQKYG_S8?usp=sharing
+
+
+Nhóm em làm Dashboard theo dash.plotly, mà không biết export file html nên không có file html
+Dash không chạy được trên Colab, chỉ chạy được Jupyter.
+Cảm ơn các thầy cô.
